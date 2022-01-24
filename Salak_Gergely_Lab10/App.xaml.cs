@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Vadean_Flaviu_Lab10.Data;
+using Salak_Gergely_Lab10.Data;
 using System.IO;
 
 namespace Salak_Gergely_Lab10
