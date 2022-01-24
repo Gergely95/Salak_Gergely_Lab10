@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Vadean_Flaviu_Lab10.Models;
+using Salak_Gergely_Lab10.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
